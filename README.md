@@ -1,3 +1,3 @@
 # Assets
 
-The repo consists of all tech workshops and assets
+The repo consists of all tech workshops and other design assets 
