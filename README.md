@@ -20,8 +20,6 @@ Repo Structure
 - workshops/
   - {workshop-name}_{date: dd-mm-yyyy}/
     - assets related to workshop
-  - {workshop-name}_{date: dd-mm-yyyy}
-    - assets related to workshop
 - templates/
   - {subcategory-name}/
     - templates used
