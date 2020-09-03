@@ -12,4 +12,4 @@ In this approach we still use open source projects to be profitable.
 
 ### Incentivize plan 
 - The team that provided the service will have to provide a small percentage of revenue to a tech club open source project 
-- The amount needed to given is upto the team 
+- The amount needed to be given is upto the team 
