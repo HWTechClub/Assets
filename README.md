@@ -4,7 +4,7 @@ The repo consists of all HW Tech Club design assets.
 
 Contact **Design Director** for more details regarding assets.
 
-Design Director : [Amogh Srivastava](https://github.com/amoghsr)  
+Design Director : [Mohit Katta](https://github.com/mk210)  
 <br>
 
 Else Contact  
